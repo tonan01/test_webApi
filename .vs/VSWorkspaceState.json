@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MyWebApi",
+    "\\MyWebApi\\MyWebApi",
+    "\\MyWebApi\\MyWebApi\\bin",
+    "\\MyWebApi\\MyWebApi\\bin\\Debug",
+    "\\MyWebApi\\MyWebApi\\bin\\Release",
+    "\\MyWebApi\\MyWebApi\\Controllers",
+    "\\MyWebApi\\MyWebApi\\Controllers\\Data",
+    "\\MyWebApi\\MyWebApi\\obj",
+    "\\MyWebApi\\MyWebApi\\obj\\Debug"
+  ],
+  "SelectedNode": "\\MyWebApi",
+  "PreviewInSolutionExplorer": false
+}
